@@ -1,0 +1,16 @@
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.deps.json
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.json
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.dev.json
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.dll
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.pdb
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csproj.AssemblyReference.cache
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfoInputs.cache
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfo.cs
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.dll
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.pdb
+/home/user/vscode/Book/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.genruntimeconfig.cache

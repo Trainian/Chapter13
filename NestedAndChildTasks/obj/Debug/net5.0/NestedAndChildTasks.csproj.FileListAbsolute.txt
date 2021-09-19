@@ -1,0 +1,16 @@
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.deps.json
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.json
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.dev.json
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.dll
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.pdb
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csproj.AssemblyReference.cache
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfoInputs.cache
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfo.cs
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csproj.CoreCompileInputs.cache
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.dll
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.pdb
+/home/user/vscode/Book/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.genruntimeconfig.cache

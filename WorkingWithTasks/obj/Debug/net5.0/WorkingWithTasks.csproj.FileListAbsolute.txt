@@ -1,0 +1,16 @@
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.deps.json
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.json
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.dev.json
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.dll
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/bin/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.pdb
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csproj.AssemblyReference.cache
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfoInputs.cache
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfo.cs
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csproj.CoreCompileInputs.cache
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.dll
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.pdb
+/home/user/vscode/Book/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.genruntimeconfig.cache

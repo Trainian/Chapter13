@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a5hnETFSNm7ZrUQbuv0LZsKQY3FRXWezGheN0dWelChwpvtjXMFhl62CvHsNwYWFjcgHEtGwMt8aA8Sp98qDPw==",
+  "dgSpecHash": "30Ia9B+o06VgoucLfSWmZKeELlTZc+6VoJw2FQpM2FniboNQNggwxpDN8BPceQhLlBKIr7v5Pa1O6cfc+rjmPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\CSharp8_book\\Code\\Chapter13\\MonitoringLib\\MonitoringLib.csproj",
+  "projectFilePath": "/home/user/vscode/Book/Chapter13/MonitoringLib/MonitoringLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

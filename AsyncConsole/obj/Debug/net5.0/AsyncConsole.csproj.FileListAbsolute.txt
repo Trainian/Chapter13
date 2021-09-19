@@ -1,0 +1,16 @@
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.csproj.AssemblyReference.cache
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.AssemblyInfoInputs.cache
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.AssemblyInfo.cs
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/home/user/vscode/Book/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole
+/home/user/vscode/Book/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.deps.json
+/home/user/vscode/Book/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.runtimeconfig.json
+/home/user/vscode/Book/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.runtimeconfig.dev.json
+/home/user/vscode/Book/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.dll
+/home/user/vscode/Book/Chapter13/AsyncConsole/bin/Debug/net5.0/ref/AsyncConsole.dll
+/home/user/vscode/Book/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.pdb
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.dll
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/ref/AsyncConsole.dll
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.pdb
+/home/user/vscode/Book/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.genruntimeconfig.cache

@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "/home/user/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CSharp8_book\\Code\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
+      "projectUniqueName": "/home/user/vscode/Book/Chapter13/MonitoringApp/MonitoringApp.csproj",
       "projectName": "MonitoringApp",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\CSharp8_book\\Code\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\CSharp8_book\\Code\\Chapter13\\MonitoringApp\\obj\\",
+      "projectPath": "/home/user/vscode/Book/Chapter13/MonitoringApp/MonitoringApp.csproj",
+      "packagesPath": "/home/user/.nuget/packages/",
+      "outputPath": "/home/user/vscode/Book/Chapter13/MonitoringApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\CSharp8_book\\Code\\Chapter13\\MonitoringLib\\MonitoringLib.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\CSharp8_book\\Code\\Chapter13\\MonitoringLib\\MonitoringLib.csproj"
+            "/home/user/vscode/Book/Chapter13/MonitoringLib/MonitoringLib.csproj": {
+              "projectPath": "/home/user/vscode/Book/Chapter13/MonitoringLib/MonitoringLib.csproj"
             }
           }
         }
@@ -81,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
