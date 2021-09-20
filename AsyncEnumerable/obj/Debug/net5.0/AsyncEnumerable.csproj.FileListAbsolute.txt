@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\bin\Debug\net5.0\AsyncEnumerable.exe
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\bin\Debug\net5.0\AsyncEnumerable.deps.json
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\bin\Debug\net5.0\AsyncEnumerable.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\bin\Debug\net5.0\AsyncEnumerable.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\bin\Debug\net5.0\AsyncEnumerable.dll
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\bin\Debug\net5.0\ref\AsyncEnumerable.dll
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\bin\Debug\net5.0\AsyncEnumerable.pdb
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.dll
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\ref\AsyncEnumerable.dll
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.pdb
+C:\Users\Admin\source\repos\CSharp8_book\Code\Chapter13\AsyncEnumerable\obj\Debug\net5.0\AsyncEnumerable.genruntimeconfig.cache
